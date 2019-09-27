@@ -1,5 +1,5 @@
 # Music-Recommendation
 #Pattern recognizer algorithm that implements Decision Tree Classifier to predict music genre of an individual.
-Keep all files in the same directory in Jupyter Notebook. 
-Run "generate_dataset"
-Run "predict_music_genre"
+1. Keep all files in the same directory in Jupyter Notebook. 
+2. Run "generate_dataset"
+3 Run "predict_music_genre"
